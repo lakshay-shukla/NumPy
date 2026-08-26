@@ -24,4 +24,4 @@ This repository contains my practice scripts, core concepts, and project impleme
 Install NumPy in your local environment using `pip`:
 
 ```bash
-pip install numpy                                                                                               
+pip install numpy
